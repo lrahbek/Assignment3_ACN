@@ -3,7 +3,7 @@ Repository for assignment 3 in Advanced Cognitive Neuroscience
 
 The repository contains two folders: 
 
-- src: 
+- ```src/```: 
 
     - ```meg_preprocessing.py```: script with functions used for loading data and preprocessing. 
 
@@ -11,7 +11,7 @@ The repository contains two folders:
 
     - ```MEG_analysis_nb.ipynb```: a notebook where functions visualizations of channels etc. are avaiable. 
 
-- out: 
+- ```out/```: 
 
     - ```ICA/```: Contains the topography plots of each ICA component (also avaiable in the appendix). 
 
