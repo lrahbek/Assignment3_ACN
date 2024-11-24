@@ -1,4 +1,3 @@
-#. /work/notebooks/virt_env/bin/activate
 . env/bin/activate
 python -m pip install imageio
 python -m pip install scipy
